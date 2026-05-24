@@ -20,9 +20,7 @@ The main Jupyter notebook containing:
   - Image resizing and cropping to 256x256 pixels
   - Normalization to [0, 1] range
   - Handling variable number of slices
-
 - **Visualization**: Exploratory data analysis and results plotting
-
 - **Input Pipeline**
 - **Model Architecture**: CNN with convolutional layers, max pooling, batch normalization, and dropout
 - **Training**: Model training with callbacks
@@ -40,7 +38,7 @@ A standalone Python script for making predictions on new MRI data:
 ### model.best.h5
 Model with optimized weights saved during training. Used by `submission.py` for inference.
 
----
+
 
 ### Making Predictions (Standalone Script)
 
