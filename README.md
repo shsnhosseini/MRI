@@ -4,7 +4,7 @@ A deep learning project for classifying MRI images using TensorFlow/Keras. This 
 
 ## Project Overview
 
-This project implements a machine learning pipeline for MRI image classification, including:
+This project implements a deep learning pipeline for MRI image classification, including:
 - DICOM image preprocessing and normalization
 - CNN-based model architecture with batch normalization and dropout regularization
 - Model training with callbacks for checkpointing and early stopping
