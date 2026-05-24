@@ -62,7 +62,7 @@ series_2,0.42
 
 - Implement transfer learning with pretrained models
 - Implement cross-validation for robust evaluation
-- Add `class_weight='balanced'` to `model.fit()` to weight minority class higher during training without data loss
+- Add `class_weight` to `model.fit()` to weight minority class higher during training without data loss
 - Data Augmentation: Apply rotations, flips, ... to minority slices to increase effective training data while preserving patterns
 - Replace `BinaryCrossentropy` with focal loss focuses training on hard-to-classify examples
 - Threshold Tuning: Adjust decision threshold from 0.5 to optimize for specific business metrics (precision vs recall trade-off)
