@@ -73,5 +73,14 @@ series_2,0.42
 - A **hybrid approach** (combining light undersampling + class weighting + oversampling) would be more effective while preserving data.
 - Create REST API for model serving
 
-## Contact
-For contributions, questions, or collaborations, please don't hesitate to reach out via email :) hosseini.sc95@gmail.com
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to:
+- Report issues or bugs
+- Suggest improvements
+
+## 📧 Contact
+
+For contributions, questions, or collaborations, please don't hesitate to reach out via email :)
+hosseini.sc95@gmail.com 
